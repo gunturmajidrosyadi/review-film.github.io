@@ -1,0 +1,129 @@
+/* navbar */
+.navbar-brand{
+  color: #16817a !important;
+  font-size: 30px;
+}
+
+.nav-home{
+  color: #16817a !important;
+  font-weight: bold;
+}
+
+.nav-home:hover{
+background-color:#16817a;
+color: #fff !important;
+border-radius: 3px;
+}
+
+/* Header */
+header {
+  height: 280px;
+  margin-top: 20px;
+  background-color: #FF8661;
+  border-radius: 20px;
+}
+
+.header-text{
+  color: #fff;
+  padding-top: 70px;
+  padding-left: 80px;
+}
+
+.header-gambar img{
+  height: 280px;
+  padding-left: 100px;
+}
+
+/*Content*/
+.landing-page{
+  margin-top: 30px;
+}
+
+.content-landing-page{
+  margin-top: 10px;
+  padding-top: 14px;
+  padding-bottom: 10px;
+}
+
+.section-content{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.section-content img{
+  height: 180px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 30px;
+}
+
+/* landing content film */
+.content-film{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.btn-film{
+  background-color: #16817a;
+  color: #fff;
+}
+
+.btn-film:hover{
+  background-color: #43d8c9;
+  color: #fff;
+}
+
+/*landing content kelompok */
+
+.content-link{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.link-film{
+  text-indent: 20px;
+  font-size: 14px;
+}
+
+/* Detail */
+.detail-page {
+  margin-top: 30px;
+}
+
+.content-detail-page {
+  margin-top: 10px;
+  padding-top: 14px;
+  padding-bottom: 10px;
+}
+
+.section-content-detail {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.section-content-detail img {
+  height: 180px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 30px;
+}
+
+.content-film-detail{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.review-content{
+  margin-top: 15px;
+}
+
+.isi-review{
+  text-indent: 30px;
+}
+
+.sumber{
+  font-size: 10px;
+}
